@@ -57,3 +57,4 @@ $ sudo bash build_img_cont.sh
 ```
 
 It will builds the image and the container automatically. 
+.
